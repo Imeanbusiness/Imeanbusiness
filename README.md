@@ -1,6 +1,6 @@
 ## Imeanbusiness
 
-Hi! I'm Imeanbusiness, or Scrafty. I do python, C++, HTML, CSS, and various forms of JS. I'm currently working on more website projects so I won't be using Github that much. If you would like to contact me, my discord is _scrafty. If you want to know more about me, go to [here](https://imeanbusiness.repl.co/).
+Hi! I'm Imeanbusiness, or Scrafty. I do python, C++, HTML, CSS, and various forms of JS. I'm currently working on more website projects so I won't be using Github that much. If you would like to contact me, my discord is _scrafty. If you want to know more about me, go to [here](https://imeanbusiness.github.io/).
 
 
 <!---
